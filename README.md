@@ -18,7 +18,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas en tu
 
 Para clonar el proyecto, ejecuta el siguiente código:
 ```bash
-git clone <URL-del-repositorio>
+git clone <https://github.com/Diallo2024/Pildora-TS-Enums-Type-Alias.git>
 
 ### 2. Inicializar el Proyecto Node.js
 Dentro de la carpeta del proyecto, abre una terminal y ejecuta el siguiente comando para inicializar el proyecto Node.js:
